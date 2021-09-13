@@ -1,4 +1,4 @@
-package com.kash.restapi.response;
+package com.kash.restapi.model.response;
 
 
 import com.fasterxml.jackson.annotation.JsonProperty;

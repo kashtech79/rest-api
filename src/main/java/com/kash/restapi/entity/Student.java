@@ -1,6 +1,6 @@
 package com.kash.restapi.entity;
 
-import com.kash.restapi.request.CreateStudentRequest;
+import com.kash.restapi.model.request.CreateStudentRequest;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;
